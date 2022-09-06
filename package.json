@@ -1,0 +1,14 @@
+{
+  "name": "system_bank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "criar um packagejson" : "npm init",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristiane",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
+
